@@ -1,0 +1,20 @@
+{
+  "name": "mf-downlader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js2xmlparser": "^5.0.0",
+    "xml-stream": "^0.4.5",
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "ndb": "^1.1.5"
+  }
+}
